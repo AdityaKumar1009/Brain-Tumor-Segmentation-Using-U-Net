@@ -34,6 +34,10 @@ The model was trained for 10 epochs and evaluated on a held-out test set.
 | **F1 Score**        | 0.6247   |
 | **AUC-ROC Score**   | 0.8492   |
 
-**Confusion Matrix:**
+### 📌 Confusion Matrix
 
-[[39150709 366303] [191962 464594]]
+|                    | Predicted Negative | Predicted Positive |
+|--------------------|--------------------|--------------------|
+| **Actual Negative**| 39,150,709         | 366,303            |
+| **Actual Positive**| 191,962            | 464,594            |
+
